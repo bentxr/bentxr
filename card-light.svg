@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="762" height="464" viewBox="0 0 762 464" role="img" aria-label="bentor: software developer">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;font-size:14px;white-space:pre}
+.fg{fill:#1f2328}.dim{fill:#8c959f}.key{fill:#8250df}
+.accent{fill:#0969da;font-weight:600}.cursor{fill:#1f2328;animation:b 1.1s step-end infinite}
+@keyframes b{50%{opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="761" height="463" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="36" xml:space="preserve" textLength="453.6" lengthAdjust="spacing"><tspan class="dim">                  -`                     </tspan><tspan class="accent">bentxr</tspan><tspan class="dim">@</tspan><tspan class="accent">github</tspan></text>
+<text x="24" y="56" xml:space="preserve" textLength="714.0" lengthAdjust="spacing"><tspan class="dim">                 .o+`                    </tspan><tspan class="dim">────────────────────────────────────────────</tspan></text>
+<text x="24" y="76" xml:space="preserve" textLength="722.4" lengthAdjust="spacing"><tspan class="dim">                `ooo/                    </tspan><tspan class="key">role     </tspan><tspan class="fg">software developer · physics student</tspan></text>
+<text x="24" y="96" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">               `+oooo:                   </tspan></text>
+<text x="24" y="116" xml:space="preserve" textLength="604.8" lengthAdjust="spacing"><tspan class="dim">              `+oooooo:                  </tspan><tspan class="key">focus    </tspan><tspan class="fg">numerics · small tools</tspan></text>
+<text x="24" y="136" xml:space="preserve" textLength="697.2" lengthAdjust="spacing"><tspan class="dim">              -+oooooo+:                 </tspan><tspan class="key">interest </tspan><tspan class="fg">numerical solutions · simulations</tspan></text>
+<text x="24" y="156" xml:space="preserve" textLength="613.2" lengthAdjust="spacing"><tspan class="dim">            `/:-:++oooo+:                </tspan><tspan class="key">langs    </tspan><tspan class="fg">C++ · C · Python · Dart</tspan></text>
+<text x="24" y="176" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">           `/++++/+++++++:               </tspan></text>
+<text x="24" y="196" xml:space="preserve" textLength="562.8" lengthAdjust="spacing"><tspan class="dim">          `/++++++++++++++:              </tspan><tspan class="key">speaks   </tspan><tspan class="fg">español · english</tspan></text>
+<text x="24" y="216" xml:space="preserve" textLength="562.8" lengthAdjust="spacing"><tspan class="dim">         `/+++ooooooooooooo/`            </tspan><tspan class="key">uptime   </tspan><tspan class="fg">8 years, 3 months</tspan></text>
+<text x="24" y="236" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">        ./ooosssso++osssssso+`           </tspan></text>
+<text x="24" y="256" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">       .oossssso-````/ossssss+`          </tspan></text>
+<text x="24" y="276" xml:space="preserve" textLength="504.0" lengthAdjust="spacing"><tspan class="dim">      -osssssso.      :ssssssso.         </tspan><tspan class="key">web      </tspan><tspan class="fg">bentor.dev</tspan></text>
+<text x="24" y="296" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">     :osssssss/        osssso+++.        </tspan></text>
+<text x="24" y="316" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">    /ossssssss/        +ssssooo/-        </tspan></text>
+<text x="24" y="336" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">  `/ossssso+/:-        -:/+osssso+-      </tspan></text>
+<text x="24" y="356" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim"> `+sso+:-`                 `.-/+oso:     </tspan></text>
+<text x="24" y="376" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">`++:.                           `-/+/    </tspan></text>
+<text x="24" y="396" xml:space="preserve" textLength="344.4" lengthAdjust="spacing"><tspan class="dim">.`                                 `/    </tspan></text>
+<text x="24" y="436" xml:space="preserve" textLength="369.6" lengthAdjust="spacing"><tspan class="dim">                                         </tspan><tspan class="dim">$ </tspan><tspan class="cursor">█</tspan></text>
+</svg>
